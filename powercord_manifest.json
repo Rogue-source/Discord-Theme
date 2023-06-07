@@ -1,8 +1,8 @@
 {
-    "name": "Spotify-Discord",
-    "description": "Combine Discord and Spotify into one",
-    "version": "1.4.2",
-    "author": "CapnKitten",
+    "name": "Discord-Theme",
+    "description": "A discord Theme",
+    "version": "0.1.6",
+    "author": "Rogue",
     "theme": "Spotify-Discord.theme.css",
     "license": "MIT"
 }
