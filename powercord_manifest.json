@@ -3,6 +3,6 @@
     "description": "A discord Theme",
     "version": "0.1.6",
     "author": "Rogue",
-    "theme": "Spotify-Discord.theme.css",
+    "theme": "Discord.theme.css",
     "license": "MIT"
 }
