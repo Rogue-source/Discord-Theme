@@ -26,3 +26,270 @@
 	--input-text-color: #333;
 	--input-placeholder-color: #444;
 }
+
+/* Spotify Player */
+ #vc-spotify-player {
+     background: none !important;
+}
+
+/* OnBoarding background */
+ .theme-dark .emptyPage-2TGR7j, .theme-dark .scrollerContainer-y16Rs9 {
+     background-color: var(--chat-color);
+}
+
+/* Add Friend Button */
+ .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1 {
+     color: black;
+     background-color: #5cf597cc;
+     border: 2px solid rgb(0 0 0);
+}
+
+/* Add Friend Button */
+ .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1:hover {
+     color: black;
+     background-color: #4fd683cc;
+     border: 2px solid rgb(0 0 0);
+}
+
+/* Add Friend Clicked */
+ .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1[aria-selected=true] {
+     background-color: #4fd683cc;
+     color: black;
+}
+
+/* OnBoarding Question background */
+ .prompt-1sE27N {
+     background-color: #080808;
+}
+
+/* OnBoarding question border */
+ div.prompt-1sE27N[style] {
+     border-color: rgba(255, 255, 255, 0.534) !important;
+}
+
+/* OnBoarding profile */
+ .profileCard-2gVmvm {
+     height: 280px;
+     background-color: #080808;
+     border: 2px solid rgba(255, 255, 255, 0.616);
+}
+
+/* OnBoarding Tab */
+ .tabBar-1_P75h {
+     padding: 32px 32px 0;
+     background-color: var(--chat-color);
+     border: 0px;
+     margin:0px;
+}
+
+/* OnBoarding active button colors */
+ .optionButtonWrapper-2lbogO.selected-KQBgNS {
+     background-color: #252323;
+     border-color: rgba(255, 255, 255, 0.596);
+}
+
+/* OnBoarding Browse Channels background */
+ .pageBody-23bo4p {
+     background-color: var(--chat-color);
+}
+
+/* Onboarding Browse Channels Channel Background */
+ .channelRow-4X_3fi {
+     background-color: #272727;
+}
+
+/* Onboarding Browse Channels Check background color*/
+ .checkbox-1LuCGM.checked-22NTbO[style] {
+     background-color: #5cf597 !important;
+     border-color: black !important;
+}
+
+/* Onboarding Browse Channels Check color */
+ .checkbox-1LuCGM.checked-22NTbO[style] path {
+     fill: #000;
+}
+
+/* */
+ .rowContainer-3t7486 {
+     background-color: rgb(63, 63, 63);
+}
+
+/* Spotify button Black */
+ .button-ejjZWC.sizeMin-3Yqxk5, .button-ejjZWC.sizeSmall-3R2P2p, .button-ejjZWC.sizeMedium-2oH5mg, .button-ejjZWC.sizeLarge-D4HafV, .button-ejjZWC.sizeXlarge-2GQ4VO, .button-ejjZWC.buttonSize-dIiz43, .button-ejjZWC.buttonSize-3QlBTl {
+     background-color: black;
+}
+
+/* subscription profile */
+ .tierPreviewsContainer-3tMaPR, .scrollerContent-2_cMNE, .roleMessagePreview-NUi2Ri {
+     background-color: var(--chat-color);
+}
+
+/* subscription background 2*/
+ .subscriptionPerks-17BiNa {
+     background-color: var(--background-tertiary);
+}
+
+/* */
+ .scroller-38C5lh {
+     background-color: var(--chat-color);
+}
+
+/* Make Previous channel invisible*/
+ .returnButtonText-27U_ef{
+     visibility: hidden;
+     margin-bottom : 15px;
+}
+
+/* Change previous channel text */
+ .text-xs-medium-311pdh :after {
+     content: "Return to Last Channel";
+     visibility: visible;
+     margin-left: -45px;
+}
+
+/* Change Padding on Previoud Channel Button*/
+ .returnButton-1xn3Ii {
+     padding: 10px !important;
+}
+
+/* */
+ .createButton-2BBU0x button-ejjZWC lookFilled-1H2Jvj colorBrand-2M3O3N sizeMedium-2oH5mg grow-2T4nbg {
+     background-color: rgb(161, 226, 161);
+     border-color: black;
+     color: black;
+}
+
+/* Red Button Hover */
+ button.button-ejjZWC.lookOutlined-3RTC7c.colorRed-2VFhM4.sizeSmall-3R2P2p.grow-2T4nbg:hover, button.disableButton-3BR0Vj.button-ejjZWC.lookFilled-1H2Jvj.colorRed-2VFhM4.sizeSmall-3R2P2p.grow-2T4nbg:hover {
+     background-color: black;
+     border: 2px solid var(--alert-color);
+}
+
+/* Red Button*/
+ button.button-ejjZWC.lookOutlined-3RTC7c.colorRed-2VFhM4.sizeSmall-3R2P2p.grow-2T4nbg, button.disableButton-3BR0Vj.button-ejjZWC.lookFilled-1H2Jvj.colorRed-2VFhM4.sizeSmall-3R2P2p.grow-2T4nbg {
+     background-color: var(--alert-color);
+     border: 2px solid black;
+     color: rgb(255, 255, 255);
+}
+
+/* Blue Button */
+ button.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeSmall-3R2P2p.grow-2T4nbg, button.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeLarge-2xP3-w.grow-2T4nbg, button.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeMedium-2oH5mg.grow-2T4nbg, button.micTestButton-2ga9tS.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeSmall-3R2P2p {
+     background-color: rgb(18, 121, 161);
+     border: 2px solid white;
+}
+
+/* Blue Button Hover */
+ button.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeSmall-3R2P2p.grow-2T4nbg:hover, button.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeLarge-2xP3-w.grow-2T4nbg:hover, button.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeMedium-2oH5mg.grow-2T4nbg:hover, button.micTestButton-2ga9tS.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeSmall-3R2P2p:hover {
+     background-color: black;
+     border: 2px solid rgb(18, 121, 161);
+}
+
+/* Increase Space between Profile buttons*/
+ button.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeSmall-3R2P2p.grow-2T4nbg {
+     margin-right: 7px;
+}
+
+/* Change Active button to green*/
+ .container-1QtPKm.checked-16gMAN[style] {
+     background-color: #59ef80cf !important;
+     border: 2px solid black;
+}
+
+/* Reposition tick/cross in button*/
+ svg.slider-HJFN2i{
+     margin-top: 1px;
+     margin-left: 1px;
+}
+
+/* Change Inactive button to red*/
+ .container-1QtPKm[style] {
+     background-color: var(--alert-color) !important;
+     border: 2px solid black;
+}
+
+/* Server subscription Button*/
+ .ctaButtonText-1tElPL {
+     color: white;
+}
+
+/* Setting Right Background */
+ .contentRegion-3HkfJJ .contentRegionScroller-2_GT_N {
+     background-color: rgb(8, 8, 8);
+}
+
+/* Setting Left Background */
+ .sidebarRegionScroller-FXiQOh {
+     background-color: black !important;
+}
+
+/* My account Profile */
+ .accountProfileCard-lbN7n- {
+     background-color: rgb(5, 5, 5) !important;
+     border-radius: 15px !important;
+     border: 2px solid rgba(255, 255, 255, 0.384) 
+}
+
+/* Transaction History Border */
+ .theme-dark .paymentPane-ut5qKZ {
+     border: 2px solid rgba(255, 255, 255, 0.384);
+}
+
+/* Transaction History Footer */
+ .theme-dark .paginator-1eqD2g {
+     background: rgb(10, 9, 9);
+     color: white;
+}
+
+/* Transaction History */
+ .theme-dark .bottomDivider-ZmTm-j {
+     border-bottom-color: var(--primary-600);
+     background-color: rgb(10, 9, 9);
+}
+
+/* Fix Positioning in Billing History*/
+ .bottomDivider-ZmTm-j.thin-RnSY0a.scrollerBase-1Pkza4[style] {
+     overflow: visible !important;
+}
+
+/* Profile border */
+ .userProfileInner-1ngKnf {
+     border: 2px solid rgba(255, 255, 255, 0.384);
+}
+
+/* Profile Banner Fix */
+ svg.bannerSVGWrapper-2CLfzN[style] {
+     min-width: 333px !important;
+}
+
+/* Language background */
+ div[role=radiogroup] {
+     background-color: rgba(0, 0, 0, 0.322) !important;
+     border: 2px solid rgba(255, 255, 255, 0.384);
+}
+
+/* language Selected Color */
+ .item-1TA5qI[aria-checked=true] {
+     background-color: #5363554d !important;
+}
+
+/* Language Circle Color */
+ .item-1TA5qI .radioIconForeground-3wH3aU, .item-1TA5qI[aria-checked=true] {
+     color: rgb(58, 214, 79) !important;
+}
+
+/* Hide Vencord Info */
+ .vc-settings-card {
+     visibility: hidden;
+     position: absolute;
+}
+
+/* Center Github button */
+ button.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeSmall-3R2P2p.grow-2T4nbg[style] {
+     margin-right: 50px;
+}
+
+/* DM User Banner height */
+ .none-1rXy4P.scrollerBase-1Pkza4[style] {
+     max-height: 877px !important;
+}
+ 
